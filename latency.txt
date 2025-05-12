@@ -1,0 +1,1 @@
+Inference Latency: 35 ms/frame on Hexagon DSP
